@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on becoming a **Data Scientist**
 
-- 🌱 I’m currently learning **Backend dev, APIs and other fun stuff**
+- 🌱 I’m currently learning **ML, Python, AI, NLP, Image Processing, Statistics, Backend dev, APIs and other fun stuff**
 
 - 💬 Ask me about **Java, Python, C++**
 
