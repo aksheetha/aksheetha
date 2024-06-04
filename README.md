@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksheetha" alt="aksheetha" /></a> </p>
 
-- 🔭 I’m currently working on **Paypal APIS**
+- 🔭 I’m currently working on becoming a **Data Scientist**
 
 - 🌱 I’m currently learning **Backend dev, APIs and other fun stuff**
 
