@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aksheetha" alt="aksheetha" /></a> </p>
 
-- 🔭 I’m currently working on becoming a ** SDE & Data Scientist**
+- 🔭 I’m currently working on becoming a Software Developer.
 
 - 🌱 I’m currently learning **ML, Python, AI, NLP, Image Processing, Statistics, Backend dev, APIs and other fun stuff**
 
